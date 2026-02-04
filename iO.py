@@ -16,7 +16,7 @@ n= False
 print(p)
 print(n)
 
-#BOOL
+#string
 name="string"
 name2="com"
 print(name)
@@ -42,7 +42,9 @@ print(my)
 gg=bool(input("Enter t or f ="))
 print(gg)
 
+#string
 name = input("enter your name =")
 print(name)
 name1 = input("enter your surname=")
+
 print(name + name1) 
